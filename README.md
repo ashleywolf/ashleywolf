@@ -22,5 +22,5 @@ Some of my favorite hangouts:
 ```
 
 <div align="center">  
-    <a href="https://gist.github.com/ashleywolf/fa00975dff0bc8fdd73d288e8eee9e1a"><img src="https://web.archive.org/web/20091027122854/http://www.geocities.com/Petsburgh/Farm/7604/signbook.gif" alt="signguestbook">
+    <a href="https://gist.github.com/ashleywolf/fa00975dff0bc8fdd73d288e8eee9e1a"><img src="https://web.archive.org/web/20090723095553/http://in.geocities.com/prashantcafe/signbook_e0.gif" alt="signguestbook">
 </div>

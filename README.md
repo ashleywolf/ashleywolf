@@ -20,3 +20,7 @@ Some of my favorite hangouts:
 🐦 Twitter/X: @meta_ashley
 🔗 LinkedIn: ashleywolf
 ```
+
+<div align="center">  
+    <img src="https://web.archive.org/web/20091027122854/http://www.geocities.com/Petsburgh/Farm/7604/signbook.gif" alt="signguestbook">
+</div>

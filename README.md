@@ -8,7 +8,7 @@ I lead GitHub's **open source programs** team. We partner with teams across the 
 Some of my favorite hangouts:
 ```
 📍 maintainers.github.com
-🏰 github.com/github-ospo
+🏰 github.com/github/github-ospo
 📖 opensource.guide
 🔍 opensourcesurvey.org
 ```

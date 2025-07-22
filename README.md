@@ -3,7 +3,7 @@
 </div>
 
 ## Hello, World! I'm Ashley 🦋 
-I lead GitHub's **open source programs** team. We partner with teams across the company and industry to empower open source leaders and advocate for a healthy software ecosystem. I'm also on the TODO Group steering committee through 2026 supporting OSPOs everywhere.
+I lead GitHub's open source programs team. We partner with teams across the company and industry to empower open source leaders and advocate for a healthy software ecosystem. I'm also on the TODO Group steering committee through 2026 supporting OSPOs everywhere.
 
 Some of my favorite hangouts:
 ```
